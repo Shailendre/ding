@@ -3,11 +3,9 @@ ding
 
 A Network Indicator, which produces a sound when connected to Internet.
 
-Requirements
-============
-A Local Server (LAMP, WAMP, MAMP)
+<b>Requirements:</b> 
+Local Server (LAMP, WAMP, MAMP)
 
 
-Installation
-============
+<b>Installation:</b>
 Host them to localserver, by moving all these files to the home directory of your localserver.
