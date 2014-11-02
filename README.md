@@ -17,4 +17,4 @@ A <b>Sample</b> is hosted on AthenaServer!
 Don't use it to check your Internet connection.
 http://athena.nitc.ac.in/~peeyush_b120102cs/ding/
 
-<a href='https://github.com/xerotronx/ding/archive/master.zip' download>Download ding</a>
+Like it ? <a href='https://github.com/xerotronx/ding/archive/master.zip' download>Download ding</a>
