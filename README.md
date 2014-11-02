@@ -15,7 +15,6 @@ Add your favourite music, just rename it as 'sound.mp3' and move along them with
 
 A <b>Sample</b> is hosted on AthenaServer! 
 Don't use it to check your Internet connection.
-<a href='http://athena.nitc.ac.in/~peeyush_b120102cs/ding/'>Download ding</a>
-
+http://athena.nitc.ac.in/~peeyush_b120102cs/ding/
 
 <a href='https://github.com/xerotronx/ding/archive/master.zip' download>Download ding</a>
