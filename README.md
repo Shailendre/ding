@@ -1,7 +1,7 @@
 ding
 ====
 
-A *Network Indicator*, which will "Ding" when its connected to Interent.
+A *Network Indicator*, which will "Ding" when its connected to Internet.
 
 
 ###Why Should I Use Ding?
