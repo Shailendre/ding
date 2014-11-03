@@ -1,15 +1,6 @@
 <?php
-$time_pre = microtime(true);
-$e = exec("ping -c 2 192.168.40.99");
-$time_post = microtime(true);
-$exec_time = $time_post - $time_pre;
-if ($exec_time<4.5) {
-	echo $e;
-}
-else if ($exec_time<8) {
-	echo "Slow connection";
-}
-else{
-	echo "No Internet Connection";
-}
+if(PHP_OS == "Linux") $e = exec("ping -c 2 192.168.40.99", $a, $b);
+else $e = exec("ping 192.168.40.99", $a, $b);
+if($b == 1) {echo "No Internet  Connection";}
+else {echo $e;}
 ?>
