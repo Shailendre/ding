@@ -8,9 +8,9 @@ A *Network Indicator*, which will "Ding" when its connected to Interent.
 
 If you don't want to refresh your page 1000 times to check internet connection, use this!
 
-##I Don't Like Ding Sound. What Should I do?
+###I Don't Like Ding Sound. What Should I do?
 
-Ohk then choose your favourite tone, or song and name it as *sound.mp3* and move it to ding folder. 
+Ohk then choose your favourite tone, or song and name it as `sound.mp3` and move it to ding folder. 
 
 
 **Requirement:** Localserver (WAMP, LAMP).
