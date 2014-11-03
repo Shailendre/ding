@@ -1,20 +1,18 @@
 ding
 ====
 
-A Network Indicator, which produces a sound when connected to Internet.
+A *Network Indicator*, which will "Ding" when its connected to Interent.
 
-<b>Requirements:</b> 
-A Local Server to run, either your server or your friend's.
+##Why Should I Use Ding?
 
+If you don't want to refresh your page 1000 times to check internet connection, use this!
 
-<b>Installation:</b>
-Host them to localserver, by moving all these files to the home directory of your localserver.
+##I Don't Like Ding Sound. What Should I do?
 
-<b>Tweak:</b>
-Add your favourite music, just rename it as 'sound.mp3' and move along them with these files. 
+Ohk then choose your favourite tone, or song and name it as *sound.mp3* and move it to ding folder. 
 
-A <b>Sample</b> is hosted on AthenaServer! 
-Don't use it to check your Internet connection.
-http://athena.nitc.ac.in/~peeyush_b120102cs/ding/
+**Requirement:** Localserver (WAMP, LAMP).
 
-Like it ? <a href='https://github.com/xerotronx/ding/archive/master.zip' download>Download ding</a>
+**Installation:** Move the extracted folder, to the server directory.
+
+[Download Ding](https://github.com/xerotronx/ding/archive/master.zip)
